@@ -13,3 +13,17 @@ O conjunto de dados Jena Climate é composto por 14 atributos diferentes (como t
 #### Fonte do dataset: https://www.kaggle.com/datasets/mnassrib/jena-climate
 
 ## Dicionário de Dados
+| Atributo | Descrição | Métrica |
+| ------------- | ------------- | ------------- |
+| Date Time  | Data e Hora das medições  | DateTime  |
+| p (mbar)  | A unidade de pressão derivada de Pascal SI usada para quantificar a pressão interna. Relatórios meteorológicos tipicamente estaduais a pressão atmosférica em milibares  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
+| Date Time  | Data e Hora das medições  | Numérico  |
