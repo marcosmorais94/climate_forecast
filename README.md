@@ -17,13 +17,23 @@ O conjunto de dados Jena Climate é composto por 14 atributos diferentes (como t
 | ------------- | ------------- | ------------- |
 | Date Time  | Data e Hora das medições  | DateTime  |
 | p (mbar)  | A unidade de pressão derivada de Pascal SI usada para quantificar a pressão interna. Relatórios meteorológicos tipicamente estaduais a pressão atmosférica em milibares  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
-| Date Time  | Data e Hora das medições  | Numérico  |
+| T (degC)  | Temperatura em Celsius (ºC)  | Numérico  |
+| Tpot (K)  | Temperatura em Kelvin (K)  | Numérico  |
+| Tdew (degC)  | Temperatura em Celsius em relação à umidade. O Dew Point é uma medida da quantidade absoluta de água no ar, o DP é a temperatura na qual o ar não pode manter toda a umidade nela e a água condensa  | Numérico  |
+| rh (%)  | A umidade relativa é uma medida de quão saturada o ar está com o vapor de água, o rh % determina a quantidade de água contida nos objetos de coleta | Numérico  |
+| VPmax (mbar)  | Pressão de vapor de saturação  | Numérico  |
+| VPact (mbar)  | Pressão de vapor  | Numérico  |
+| VPdef (mbar)  | Déficit de pressão de vapor  | Numérico  |
+| sh (g/kg)  | Umidade específica  | Numérico  |
+| H2OC (mmol/mol)  | Concentração de vapor de água  | Numérico  |
+| rho (g/m ** 3)  | Hermético  | Numérico  |
+| wv (m/s)  | Velocidade do vento  | Numérico  |
+| max. wv (m/s)  | Velocidade máxima do vento  | Numérico  |
+| wd (deg)  | Direção do vento em grau  | Numérico  |
+
+
+Informações do Dataset:
+|  | |
+| ------------- | ------------- |
+| Total de Registros  | 420.551  |
+| Total de Atributos  | 14  |
