@@ -9,7 +9,7 @@ Para tal análise será utilizado o algoritmo Prophet que é disponibilizado pel
 O modelo precisa prever as temperaturas diárias com base na sazonalidade do clima europeu, com pico do verão em julho e inverno em janeiro.
 
 ## Informações do dataset
-O conjunto de dados Jena Climate é composto por 14 atributos diferentes (como temperatura do ar, pressão atmosférica, umidade, direção do vento e assim por diante) registradas a cada 10 minutos, ao longo de vários anos. Este conjunto de dados abrange dados de 1º de janeiro de 2009 a 31 de dezembro de 2016.
+O conjunto de dados Jena Climate possui 14 atributos diferentes (como temperatura do ar, pressão atmosférica, umidade, direção do vento e assim por diante) registradas a cada 10 minutos, ao longo de vários anos. Este conjunto de dados abrange dados de 1º de janeiro de 2009 a 31 de dezembro de 2016.
 
 #### Fonte do dataset: https://www.kaggle.com/datasets/mnassrib/jena-climate
 
