@@ -5,7 +5,7 @@
 # Previsão com Séries Temporais - Algoritmo Prophet
 O objetivo dessa análise é fazer uma previsão para os próximos 365 dias da temperatura média na região de Jena, Alemanha. Para esse projeto, foi utilizada uma base de dados disponível no Kaggle com as medições entre Janeiro/2009 e Dezembro/2016.
 
-Para tal análise, será utilizado o algoritmo Prophet que é disponibilizado pelo time de Ciência de Dados do Meta. Para avaliação do modelo será usado o erro médio.
+Para tal análise, será utilizado o algoritmo Prophet que é disponibilizado pelo time de Ciência de Dados do Meta (Facebook). Para avaliação do modelo será usado o erro médio.
 O modelo precisa prever as temperaturas diárias com base na sazonalidade do clima europeu, com pico do verão em julho e inverno em janeiro.
 
 ## Informações do dataset
